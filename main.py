@@ -1,5 +1,5 @@
-import my_module
-import math
+import my_module as md
+import math as m
 
-print(math.pi)
-print(math.factorial(5))
+print(m.pi)
+print(m.factorial(5))
